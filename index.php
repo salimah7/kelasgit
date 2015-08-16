@@ -2,4 +2,4 @@
 
 echo "hello git";
 
-echo "hi sam";
+echo "hi UTM";
