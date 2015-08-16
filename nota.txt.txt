@@ -1,0 +1,38 @@
+git init
+
+# create new file using editor/notepad
+
+git add index.php
+
+git status
+
+git commit -m "some comment ..."
+
+git config --global user.name "kamal"
+git config --global user.email "kamal@k4ml.github.io"
+
+git log
+
+git diff
+
+git remote add origin <URL>
+
+git push origin master
+
+git checkout -b newbranch
+
+git checkout master
+
+git merge newbranch
+
+
+
+
+
+
+
+
+
+
+
+
